@@ -4,7 +4,7 @@
 It has the following courses:
 
 - Bootstrap
-- JQuery
+- jQuery
 - SASS
 - React
 - Redux
